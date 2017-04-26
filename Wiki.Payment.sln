@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wiki.Payment", "Wiki.Payment\Wiki.Payment.csproj", "{3E9DC77C-3206-471A-AFFF-45AC01F26115}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wiki.Payment.Client", "Wiki.Payment.Client\Wiki.Payment.Client.csproj", "{64CF0F9F-DD7D-4C73-A30C-5733EE33F896}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wiki.Payment.Common", "Wiki.Payment.Common\Wiki.Payment.Common.csproj", "{5267B25D-6205-4A1D-BEDF-090A3D7CC30B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wiki.Payment.Test", "Wiki.Payment.Test\Wiki.Payment.Test.csproj", "{16531565-E7EA-4343-9C92-AF383AA47ECE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E9DC77C-3206-471A-AFFF-45AC01F26115}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E9DC77C-3206-471A-AFFF-45AC01F26115}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E9DC77C-3206-471A-AFFF-45AC01F26115}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E9DC77C-3206-471A-AFFF-45AC01F26115}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64CF0F9F-DD7D-4C73-A30C-5733EE33F896}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64CF0F9F-DD7D-4C73-A30C-5733EE33F896}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64CF0F9F-DD7D-4C73-A30C-5733EE33F896}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64CF0F9F-DD7D-4C73-A30C-5733EE33F896}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5267B25D-6205-4A1D-BEDF-090A3D7CC30B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5267B25D-6205-4A1D-BEDF-090A3D7CC30B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5267B25D-6205-4A1D-BEDF-090A3D7CC30B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5267B25D-6205-4A1D-BEDF-090A3D7CC30B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16531565-E7EA-4343-9C92-AF383AA47ECE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16531565-E7EA-4343-9C92-AF383AA47ECE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16531565-E7EA-4343-9C92-AF383AA47ECE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16531565-E7EA-4343-9C92-AF383AA47ECE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

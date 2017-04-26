@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<package xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <metadata>
+    <id>Wiki.Payment.Client</id>
+    <version>1.0.1</version>
+    <title>Wiki.Payment.Client</title>
+    <authors>RIK_Egorqa</authors>
+    <owners>RIK</owners>
+    <description>Client for Wiki.Payment.Service</description>
+    <language />
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <developmentDependency>false</developmentDependency>
+    <releaseNotes>
+Version 1.0.1 (20.01.2016)
+Create new package
+    </releaseNotes>
+    <copyright>Copyright ?  2015</copyright>
+  </metadata>
+  <files>
+    <file src="Wiki.Payment.Client.*" target="lib\net45" />
+    <file src="Wiki.Payment.Common.*" target="lib\net45" />
+  </files>
+</package>
